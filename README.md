@@ -17,7 +17,8 @@ The app enables real-time tracking, communication, and data management — makin
 
 ## 🎥 Demo Video
 
-[![Watch Demo]](https://github.com/Ahmed27Mohamed/School-Management-System/blob/main/VID-20240821-WA0003.mp4)
+[[Watch Demo]]
+<video src="https://github.com/Ahmed27Mohamed/School-Management-System/raw/main/VID-20240821-WA0003.mp4" controls width="800"</video>
 
 # ✨ Features
 
