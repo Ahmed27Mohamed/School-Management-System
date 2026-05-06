@@ -6,10 +6,10 @@ A modern Android application designed to digitize and simplify school management
 
 School App is a complete educational management system that connects:
 
-🏫 Schools (Admin Dashboard)
-👨‍🏫 Teachers
-👨‍🎓 Students
-👨‍👩‍👧 Parents
+- 🏫 Schools (Admin Dashboard)
+- 👨‍🏫 Teachers
+- 👨‍🎓 Students
+- 👨‍👩‍👧 Parents
 
 All in one seamless platform.
 
@@ -17,7 +17,7 @@ The app enables real-time tracking, communication, and data management — makin
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/▶️-Watch%20Demo-blue?style=for-the-badge)](https://github.com/USERNAME/REPO/blob/main/demo.mp4)
+[![Watch Demo]](https://github.com/Ahmed27Mohamed/School-Management-System/v.mp4)
 
 # ✨ Features
 
