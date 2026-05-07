@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a0dcb426-7933-4dca-ad4b-c4404acddf66
 # 📱 School App
 
 A modern Android application designed to digitize and simplify school management systems, replacing traditional paper-based workflows with a smart, real-time solution.
@@ -17,9 +19,7 @@ The app enables real-time tracking, communication, and data management — makin
 
 ## 🎥 Demo Video
 
-[Watch Demo 1] (https://github.com/user-attachments/assets/7565b62b-2a63-43fb-ae5d-5c2ca28a4e1f)
-
-[Watch Demo 2] (https://github.com/user-attachments/assets/fad6fe44-3853-47f9-a339-3b1bf913c807)
+[Watch Demo] [(https://github.com/user-attachments/assets/7f553f8e-4ab7-4ae9-b275-5685a738fa0f)]
 
 # ✨ Features
 
