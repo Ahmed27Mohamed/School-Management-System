@@ -17,11 +17,9 @@ The app enables real-time tracking, communication, and data management — makin
 
 ## 🎥 Demo Video
 
-[Watch Demo]
+[Watch Demo 1] (https://github.com/user-attachments/assets/7565b62b-2a63-43fb-ae5d-5c2ca28a4e1f)
 
-[Watch Demo 1] https://github.com/user-attachments/assets/7565b62b-2a63-43fb-ae5d-5c2ca28a4e1f
-
-[Watch Demo 2] https://github.com/user-attachments/assets/fad6fe44-3853-47f9-a339-3b1bf913c807
+[Watch Demo 2] (https://github.com/user-attachments/assets/fad6fe44-3853-47f9-a339-3b1bf913c807)
 
 # ✨ Features
 
